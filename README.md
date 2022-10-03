@@ -1,4 +1,4 @@
-- ###👋 Hi there folks, I’m Muhammad Ali
+- 👋 Hi there folks, I’m Muhammad Ali
 - 👀 I’m interested in Web 3.0
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate to Open Source. 
