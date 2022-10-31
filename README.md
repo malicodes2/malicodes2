@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **I am an Introverted Extrovert**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malicodes2&theme=yeblu&show_icons=true&locale=en&layout=compact" alt="malicodes2" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malicodes2&theme=yeblu&show_icons=true&locale=en" alt="malicodes2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malicodes2&theme=yeblu&show_icons=true&locale=en" alt="malicodes2" /></p>
 
