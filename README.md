@@ -16,12 +16,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malicodes2" alt="malicodes2" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- ⚡ Fun fact **I am an Introverted Extrovert**
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=malicodes2&theme=ocean_dark&show_icons=true&locale=en&layout=compact" alt="malicodes2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malicodes2&theme=ocean_dark&show_icons=true&locale=en" alt="malicodes2" /></p>
